@@ -1,5 +1,7 @@
 # Nestlé India Sales Performance Dashboard — Excel
 
+> **Data Analyst & Business Intelligence Analyst portfolio project**
+
 An Excel business intelligence dashboard for analysing sales performance across products, locations, and time periods.
 
 ## Overview
@@ -33,7 +35,17 @@ The following are sheets inside the Excel workbook, not separate repository file
 - Time-based sales trends
 - KPI scorecards and dashboard summaries
 
-## Limitations
+## Analyst value
+
+> **Portfolio focus:** Sales Business Intelligence · KPI Reporting · Excel Analytics
+
+**Stakeholder lens:** Sales leaders, category managers, regional teams, and commercial decision-makers.
+
+**Skills demonstrated:** Spreadsheet modelling, KPI design, summary tables, product and geography analysis, formula-based reporting, conditional formatting, and dashboard layout.
+
+**Decision support:** Converts transaction-level sales data into an executive view of revenue, units, products, states, cities, and time-based performance.
+
+## $1
 
 - The repository contains an Excel workbook, not a deployed BI application.
 - Results depend on the workbook's embedded data and formulas.
