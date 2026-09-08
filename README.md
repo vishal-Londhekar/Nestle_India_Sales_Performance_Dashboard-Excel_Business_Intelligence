@@ -35,6 +35,21 @@ The following are sheets inside the Excel workbook, not separate repository file
 - Time-based sales trends
 - KPI scorecards and dashboard summaries
 
+
+## Business problem and decision
+
+### Business problem
+Sales leaders need a clear view of revenue, units, products, states, cities, and time-based performance to identify where commercial attention is required. Transaction-level Excel data is difficult to use for regular decision-making without a structured KPI layer.
+
+### Analyst question
+Which products, locations, and periods contribute most to performance, and where are there signals that warrant investigation into inventory, promotion, or sales execution?
+
+### Decision supported
+Commercial stakeholders can use the workbook to prioritise product reviews, regional conversations, sales follow-up, and KPI monitoring. The dashboard is a decision-support view, not a replacement for finance or operational systems.
+
+### Potential success measure
+Success should be measured by KPI definition consistency, refresh reliability, reduced manual reporting effort, and whether stakeholders can move from a KPI variance to a clear follow-up question.
+
 ## Analyst value
 
 > **Portfolio focus:** Sales Business Intelligence · KPI Reporting · Excel Analytics
