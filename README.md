@@ -45,7 +45,7 @@ The following are sheets inside the Excel workbook, not separate repository file
 
 **Decision support:** Converts transaction-level sales data into an executive view of revenue, units, products, states, cities, and time-based performance.
 
-## $1
+## Limitations
 
 - The repository contains an Excel workbook, not a deployed BI application.
 - Results depend on the workbook's embedded data and formulas.
